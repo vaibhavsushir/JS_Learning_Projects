@@ -7,5 +7,5 @@ while((fav != guess) && (guess != "quit")){
 }
 if(guess==fav){
     console.log("Congrats");
-
 }
+
