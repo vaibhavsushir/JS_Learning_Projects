@@ -26,5 +26,4 @@ while (true) {
     console.log("Wrong Task");
 }
  req=prompt("Enter Your Request");
-
 }
