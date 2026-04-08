@@ -14,5 +14,4 @@ let classarr=[
         mark:50,
         gender:"male"
     }
-    
 ]
