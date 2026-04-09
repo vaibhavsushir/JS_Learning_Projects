@@ -7,6 +7,5 @@ console.log(step1);
 step2=Math.floor(step1);
 console.log(step2);
 
-
 step3=step2+1;
 console.log(step3);
