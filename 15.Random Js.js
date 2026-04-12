@@ -1,5 +1,5 @@
 let btn = document.querySelector("button");
-btn.addEventListener("click",function(){
+btn.addEventListener("click",function(){ 
     let h3 = document.querySelector("h3");
     let random = GetRandomColour();
     h3.innerText=random;
