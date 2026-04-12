@@ -15,5 +15,4 @@ function GetRandomColour() {
 
     let colour=`rgb(${red},${green},${blue})`;
     return colour;
-
 }
