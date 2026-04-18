@@ -1,7 +1,7 @@
 let form = document.querySelector("form");
 
 form.addEventListener("submit",function(event){
-    event.preventDefault();
+    event.preventDefault(); 
   
     let user=document.querySelector("#user");
     let pass=document.querySelector("#pass");
