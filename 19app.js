@@ -16,5 +16,5 @@ item.appendChild(deltbtn);
 
 ul.addEventListener("click",function(event){
   console.dir(event.target.nodeName);
-  console.log("button clickwd")
+  console.log("button clickwd");
 });
