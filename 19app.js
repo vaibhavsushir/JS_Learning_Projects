@@ -7,7 +7,7 @@ btn.addEventListener("click",function(){
   item.innerText = inp.value;
 
   let deltbtn=document.createElement("delete");
-  deltbtn.innerText = "delete";
+  deltbtn.innerText = "delete"; 
   deltbtn.classList.add("delete");
 item.appendChild(deltbtn);
   ul.appendChild(item);
