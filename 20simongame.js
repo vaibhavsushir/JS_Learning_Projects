@@ -1,6 +1,5 @@
 let gameseq =[];
 let userseq =[];
-
 let btns=["yellow","red","purple","green"];
 let started=false;
 let level = 0; 
