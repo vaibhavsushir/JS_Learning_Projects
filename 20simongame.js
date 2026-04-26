@@ -38,7 +38,7 @@ function levelup(){
 gameseq.push(randcol);
 console.log(gameseq);
   gameflash(randbtn);
-}
+} 
 function checkans(idx){
     confirm.log("curr level: ",level);
     if(userseq[idx]==gameseq[idx]){
