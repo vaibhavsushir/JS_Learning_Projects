@@ -62,7 +62,7 @@ savetoDB("apna college")
 })
 .then(()=>{
     console.log("data3 saved.");
-})
+}) 
 .catch(()=>{
     console.log("promise was rejected"); 
 });
