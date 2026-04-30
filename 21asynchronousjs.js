@@ -56,7 +56,7 @@ savetoDB("apna college")
     console.log("data1 saved.");
    return savetoDB("hellow");
 })
-.then(()=>{
+.then(()=>{ 
     console.log("data2 saved.");
     return savetoDB("hellow");
 })
