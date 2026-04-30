@@ -26,7 +26,7 @@ function savetoDB(data){
     return new Promise((success, failure) => {
     let internetspeed = Math.floor(Math.random() *10)+1;
     if(internetspeed>4){
-   success("success:data is save");
+   success("success:data is save"); 
     }else{
      failure("failure:data is not saved");
     }
