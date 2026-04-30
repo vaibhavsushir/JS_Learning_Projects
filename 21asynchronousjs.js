@@ -64,5 +64,5 @@ savetoDB("apna college")
     console.log("data3 saved.");
 }) 
 .catch(()=>{
-    console.log("promise was rejected"); 
+    console.log("promise was rejected") ; 
 });
